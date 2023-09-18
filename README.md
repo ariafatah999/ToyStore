@@ -1,5 +1,5 @@
-<h1 align="center">🌲 Portofolio v.1</h1>
-<h3 align="center">Portofolio v.1 for my social media</h3>
+<h1 align="center">🌲 Toy Store</h1>
+<h3 align="center">Toy Store - E-commerce Website</h3>
 
 <!--profil label -->
 <p align="center"> <a href="#">
@@ -12,14 +12,14 @@
 
 ## 💡 About the project
 
-ini adalah project untuk membuat portofolio untuk keperluan media sosial
-- cek websitenya [disini](https://ariafatah0711.github.io/portofolio_v.1/)
+ini adalah project untuk membuat Toko Mainan untuk keperluan E-commerce 
+- cek websitenya [disini](https://webcodenetwork.github.io/ToyStore/)
 
 ## 🚀 Getting started
 
 instaled
-```bash
-git clone https://github.com/ariafatah0711/portofolio_v.1.git
+```
+https://github.com/WebCodeNetwork/ToyStore.git
 ```
 - setelah resipory terinstal anda hanya perlu mengedit di visual studio code
 - lalu ubah beberapa perubahan seperti foto profil, nama, link, dan background
